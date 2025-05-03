@@ -46,6 +46,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rgarestuk/rgarestuk/output/snake.svg" alt="Snake animation" />
-
 ###
