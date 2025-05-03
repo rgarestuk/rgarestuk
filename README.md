@@ -11,7 +11,7 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
+### Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
 </div>
 
-###
+### Connect with Me
 
 <div align="left">
   <a href="https://youtube.com/@LzzyID" target="_blank">
