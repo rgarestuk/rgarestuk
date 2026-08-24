@@ -36,7 +36,7 @@
 
 ###
 
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=314fjke7wetwcdjfy74ozpy3rt4m)
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=314fjke7wetwcdjfy74ozpy3rt4m&theme=tokyonight&width=500&footer=wave)
 
 ###
 
